@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-socialite.svg">Velty</p>
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-socialite.svg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/socialite"><img src="https://travis-ci.org/laravel/socialite.svg" alt="Build Status"></a>
